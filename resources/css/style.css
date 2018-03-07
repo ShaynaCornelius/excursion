@@ -1,7 +1,9 @@
 html {
   font-family: Verdana;
-  text-align: center;
   background-color: Black;
+}
+body {
+  text-align: center;
 }
 h1 {
   font-weight: normal;
